@@ -1,0 +1,25 @@
+.paragraph
+{
+    background-color: rgba(197, 123, 161, 0.8);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.paragraph.cooler
+{
+    font-size: 24px;
+}
+
+#id-number-4
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+#id-number-2
+{
+    color: blue;
+    font-size: 36px;
+}
+
